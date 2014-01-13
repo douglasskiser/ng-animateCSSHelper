@@ -1,6 +1,7 @@
 # Angular AnimateCSS Helper Directive
 
-This project is an AngularJS directive to assist in developing with animate.css .
+This project is an AngularJS directive to assist in developing with animate.css library.
+The animate.css library is available at https://github.com/daneden/animate.css
 
 ## How to use it
 
